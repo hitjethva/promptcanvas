@@ -141,19 +141,33 @@ Account information, favorites, preferences, and other account-related data may 
 
 When information is no longer required, it may be deleted, anonymized, or otherwise handled according to our retention practices and legal obligations.
 
-## 8. Children's Privacy
+## 8. Account and Data Deletion
+
+If you have a PromptCanvas account, you may request deletion of your account and associated personal data.
+You may initiate account deletion:
+
+- Through the account deletion option available within PromptCanvas; or
+- Through our account deletion web page: [ADD PUBLIC ACCOUNT DELETION URL]
+
+You may also contact us at: hitjethva@gmail.com
+
+When an account deletion request is completed, we delete data associated with the account unless certain information must be retained for legitimate legal, security, fraud-prevention, or regulatory reasons.
+
+Where information must be retained, we retain only what is necessary for the applicable purpose and period. Google Play requires apps that support account creation to provide both an in-app deletion path and an external web resource for deletion requests.
+
+## 9. Children's Privacy
 
 PromptCanvas does not knowingly collect personal information from children in violation of applicable laws.
 
 If you believe that a child has provided personal information without appropriate authorization, contact us at **hitjethva@gmail.com** so that we can review the matter and take appropriate action.
 
-## 9. Changes to This Privacy Policy
+## 10. Changes to This Privacy Policy
 
 We may update this Privacy Policy when PromptCanvas features, services, data practices, or legal requirements change.
 
 When the policy is updated, we will revise the "Last updated" date shown at the top of this page.
 
-## 10. Contact Us
+## 11. Contact Us
 
 For questions, concerns, or other privacy-related requests concerning PromptCanvas, contact:
 
