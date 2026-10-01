@@ -8,9 +8,9 @@ PromptCanvas ("PromptCanvas", "we", "our", or "us") respects your privacy.
 
 This Privacy Policy explains how PromptCanvas collects, uses, stores, shares, and protects information when you use the PromptCanvas mobile application.
 
-**App:** PromptCanvas
-**Developer:** Hitesh Jethva
-**Privacy contact:** hitjethva@gmail.com
+- **App:** PromptCanvas
+- **Developer:** Hitesh Jethva
+- **Privacy contact:** hitjethva@gmail.com
 
 ## 2. Information We Collect
 
